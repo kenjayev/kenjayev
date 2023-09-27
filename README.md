@@ -1,5 +1,5 @@
 ### Assalomu alaykum (Hi). I'm Kenjayev Azizbek👋
-
+i am software developer
 <br/>
 
 ### Languages and tools I work with:
