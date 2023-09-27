@@ -2,7 +2,7 @@
 
 <br/>
 
-###Languages and tools I work with:
+### Languages and tools I work with:
 <br>
 <code><img src="./img/html.png" width="50" alt="HTML5"></code>
 <code><img src="./img/css.png" width="50" alt="HTML5"></code>
