@@ -3,7 +3,8 @@
 <br/>
 
 ###Languages and tools I work with:
-<code><img src="https://drive.google.com/file/d/14nSz7fIsupBX3MviTMA5hKtzGO9Q8hUO/view?usp=drive_link" width="50" alt="HTML5"></code>
+<br>
+<code><img src="https://drive.google.com/file/d/14nSz7fIsupBX3MviTMA5hKtzGO9Q8hUO/view" width="50" alt="HTML5"></code>
 
 <!--
 **kenjayev/kenjayev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
