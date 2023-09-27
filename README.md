@@ -11,11 +11,12 @@
 <code><img src="./img/react.png" width="50" alt="HTML5"></code>
 
 <br/>
-
+<br/>
+<br/>
 <ul>
   <li>📍   Current location: Uzbekistan Toshkent</li>
   <li>📝  Ask me about anything, I am happy to help.</li>
-  <li>📨  How to reach me: [@kenjayev.azizbek_](https://www.instagram.com/kenjayev.azizbek_/)</li>
+  <li>📨  How to reach me: <a href="https://www.instagram.com/kenjayev.azizbek_/" target="_blank">@kenjayev.azizbek_</a></li>
 </ul>
 
 <!--
