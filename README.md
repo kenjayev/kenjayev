@@ -1,4 +1,9 @@
-### Hi there 👋
+### Assalomu alaykum (Hi). I'm Kenjayev Azizbek👋
+
+<br/>
+
+###Languages and tools I work with:
+<code><img src="https://w7.pngwing.com/pngs/871/352/png-transparent-html-web-development-responsive-web-design-computer-icons-html5-icon-miscellaneous-web-design-logo.png" alt="HTML5"></code>
 
 <!--
 **kenjayev/kenjayev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
