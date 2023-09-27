@@ -3,7 +3,7 @@
 <br/>
 
 ###Languages and tools I work with:
-<code><img src="[https://w7.pngwing.com/pngs/871/352/png-transparent-html-web-development-responsive-web-design-computer-icons-html5-icon-miscellaneous-web-design-logo.png](https://drive.google.com/file/d/14nSz7fIsupBX3MviTMA5hKtzGO9Q8hUO/view?usp=drive_link)" alt="HTML5"></code>
+<code><img src="https://drive.google.com/file/d/14nSz7fIsupBX3MviTMA5hKtzGO9Q8hUO/view?usp=drive_link" width="50" alt="HTML5"></code>
 
 <!--
 **kenjayev/kenjayev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
