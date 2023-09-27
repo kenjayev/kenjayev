@@ -4,7 +4,7 @@
 
 ###Languages and tools I work with:
 <br>
-<code><img src="https://drive.google.com/file/d/14nSz7fIsupBX3MviTMA5hKtzGO9Q8hUO/view?usp=sharing" width="50" alt="HTML5"></code>
+<code><img src="./img/html.png" width="50" alt="HTML5"></code>
 
 <!--
 **kenjayev/kenjayev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
