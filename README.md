@@ -9,6 +9,7 @@ I am software developer
 <code><img src="./img/bootstrap.png" width="40" alt="HTML5"></code>
 <code><img src="./img/js.png" width="45" alt="HTML5"></code>
 <code><img src="./img/react.png" width="40" alt="HTML5"></code>
+<code><img src="[./img/react.png](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)" width="40" alt="CPP"></code>
 
 <br/>
 <br/>
