@@ -3,7 +3,6 @@ I am software developer
 <br/>
 
 ### Languages and tools I work with:
-<br>
 <code><img src="./img/html.png" width="45" alt="HTML5"></code>
 <code><img src="./img/css.png" width="45" alt=""></code>
 <code><img src="./img/bootstrap.png" width="40" alt="HTML5"></code>
